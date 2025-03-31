@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "513130542946",
+    "project_id": "onestepdebug",
+    "storage_bucket": "onestepdebug.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513130542946:android:d70a69b08fbca754019e3b",
+        "android_client_info": {
+          "package_name": "com.example.onestep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513130542946-j8lo22b1tso5ksdks7q6kasmmra4obh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcYK50dj7HnKqANI-Wg750FNLKRzGM6fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513130542946-j8lo22b1tso5ksdks7q6kasmmra4obh1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "513130542946-ldv44q6nnufcgcjgeb9aqd74dmho1b6f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.revble.onestep"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513130542946:android:70e20a142f489a10019e3b",
+        "android_client_info": {
+          "package_name": "com.reble.onestep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513130542946-t6ae6m0lajtqqlpd4dl3mu5sgduukra6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reble.onestep",
+            "certificate_hash": "d71ba8ec9419349b865777b387a9ca5a9b4ff2b8"
+          }
+        },
+        {
+          "client_id": "513130542946-j8lo22b1tso5ksdks7q6kasmmra4obh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcYK50dj7HnKqANI-Wg750FNLKRzGM6fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513130542946-j8lo22b1tso5ksdks7q6kasmmra4obh1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "513130542946-ldv44q6nnufcgcjgeb9aqd74dmho1b6f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.revble.onestep"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
