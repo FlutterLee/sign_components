@@ -44,9 +44,9 @@ void main() async {
       try {
         debugPrint('[DEBUG] Supabase 초기화 시작');
         await Supabase.initialize(
-          url: 'https://bygsiuvqoofxjvteugfj.supabase.co',
+          url: '',
           anonKey:
-              'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJ5Z3NpdXZxb29meGp2dGV1Z2ZqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDI5NjMzNjYsImV4cCI6MjA1ODUzOTM2Nn0.25IfDPBPuiMEDcEAUKVQp6jOwYdjlIyhrFOWUqRnu18',
+              '',
         );
         debugPrint('[DEBUG] Supabase 초기화 완료');
       } catch (e, stackTrace) {
