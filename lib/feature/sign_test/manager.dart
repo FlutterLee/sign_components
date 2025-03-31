@@ -16,12 +16,12 @@ class AuthManager {
 
       final String webClientId =
           kDebugMode
-              ? '513130542946-j8lo22b1tso5ksdks7q6kasmmra4obh1.apps.googleusercontent.com'
+              ? ''
               : 'WEB_CLIENT_ID_RELEASE';
 
       final String iosClientId =
           kDebugMode
-              ? '513130542946-ldv44q6nnufcgcjgeb9aqd74dmho1b6f.apps.googleusercontent.com'
+              ? ''
               : 'IOS_CLIENT_ID_RELEASE';
 
       final GoogleSignIn googleSignIn = GoogleSignIn(
